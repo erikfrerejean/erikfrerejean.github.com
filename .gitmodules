@@ -1,0 +1,3 @@
+[submodule "webglplayhouse"]
+	path = webglplayhouse
+	url = git://github.com/erikfrerejean/webglplayhouse.git
